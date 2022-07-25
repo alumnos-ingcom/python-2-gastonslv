@@ -1,5 +1,5 @@
 ################
-# Nombre - @usuario_github
+# Gaston Silvestre - @gastonslv
 # UNRN Andina - Introducción a la Ingenieria en Computación
 ################
 
